@@ -1,0 +1,10 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource >
+	<file>images/index.jpeg</file>
+	<file>images/blur.jpeg</file>
+	<file>images/bw.jpeg</file>
+	<file>images/undo.jpeg</file>
+	<file>images/redo.jpeg</file>
+	<file>images/edge.jpeg</file>
+ </qresource>
+ </RCC>
